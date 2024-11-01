@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woovip-lite\n"
+"POT-Creation-Date: 2021-01-09 21:25+0100\n"
+"PO-Revision-Date: 2021-01-09 21:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: Long Watch Studio <contact@longwatchstudio.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/ui/admin.php:18
+msgid "WooVIP"
+msgstr "WooVIP"
+
+#: include/ui/admin.php:19 include/ui/admin.php:50
+msgid "VIP Membership"
+msgstr "Adhésion VIP"
+
+#: include/ui/admin.php:24 include/ui/admin.php:25
+msgid "System"
+msgstr "Système"
+
+#: include/ui/admin.php:55
+msgid "Membership settings"
+msgstr "Réglages d'adhésion"
+
+#: include/ui/admin.php:58
+msgid "Set the rules of your Membership."
+msgstr "Définissez les règles de votre adhésion."
+
+#: include/ui/admin.php:62
+msgid "Name your VIP membership"
+msgstr "Nommez votre adhésion VIP"
+
+#: include/ui/admin.php:67
+msgid "Forbidden pages redirects to"
+msgstr "Pages interdites redirigent vers"
+
+#: include/ui/admin.php:72
+msgid ""
+"When a page or product is for Members, visitor is redirected to another "
+"page. Default is the 404 page."
+msgstr ""
+"Lorsqu’une page ou un produit est réservé aux adhérents, le visiteur est "
+"redirigé vers une autre page. Par défaut, c'est la page 404."
+
+#: include/ui/admin.php:80
+msgid "Manage Members"
+msgstr "Gérer les adhérents"
+
+#: include/ui/admin.php:84
+msgid "Manage the memberships of your users."
+msgstr "Gérez les adhésions de vos utilisateurs."
+
+#: include/ui/admin.php:88
+msgid "Assign users membership"
+msgstr "Attribuer une adhésion aux utilisateurs"
+
+#: include/ui/admin.php:91
+msgid "Assign user memberships in the Users page.</a>"
+msgstr "Attribuez les adhésions aux utilisateurs sur la page Utilisateurs."
+
+#: include/ui/admin.php:98
+msgid "Membership rules"
+msgstr "Règles d’adhésion"
+
+#: include/ui/admin.php:102
+msgid ""
+"Set the products, pages and post rules for your membership. In The free "
+"version, the rules are directly set on the wordpress/woocommerce pages"
+msgstr ""
+"Définissez les produits, les pages et les règles de publication de votre "
+"adhésion. Dans La version gratuite, les règles sont directement définies sur "
+"les pages wordpress/woocommerce"
+
+#: include/ui/admin.php:106
+msgid "Pages visibility"
+msgstr "Visibilité des pages"
+
+#: include/ui/admin.php:109
+msgid "Edit the Wordpress Pages visibility."
+msgstr "Modifiez la visibilité des Pages Wordpress."
+
+#: include/ui/admin.php:114
+msgid "Posts visibility"
+msgstr "Visibilité des articles"
+
+#: include/ui/admin.php:117
+msgid "Edit the Wordpress Posts visibility."
+msgstr "Modifiez la visibilité des articles WordPress."
+
+#: include/ui/admin.php:122
+msgid "Set the products rules"
+msgstr "Définir les règles des produits"
+
+#: include/ui/admin.php:125
+msgid "Edit the products prices and visibility."
+msgstr "Modifier les prix des produits et leur visibilité."
+
+#: include/ui/admin.php:141
+msgid "Data Management"
+msgstr "Gestion des données"
+
+#: include/ui/admin.php:146
+msgid "Delete all data"
+msgstr "Supprimer toutes les données"
+
+#: include/ui/admin.php:148
+msgid "Remove all VIP memberships and user's memberships."
+msgstr ""
+"Supprimez toutes les adhésions VIP et les abonnements des utilisateurs."
+
+#: include/ui/admin.php:149
+msgid "Use it with care since this action is <b>not undoable</b>."
+msgstr "Utilisez cette avec soin car cette action <b>n’est pas infaisable.</b>"
+
+#: include/ui/admin.php:153 include/ui/admin.php:188
+msgid "Delete All Data"
+msgstr "Supprimer toutes les données"
+
+#: include/ui/admin.php:187
+#, php-format
+msgid ""
+"If you really want to reset all WooVIP data, check this box and click on "
+"<i>'%s'</i> again."
+msgstr ""
+"Si vous voulez vraiment réinitialiser toutes les données WooVIP, cochez "
+"cette case et cliquez sur <i>'%s'</i> à nouveau."
+
+#: include/ui/admin.php:189
+msgid "This operation is not undoable!"
+msgstr "Cette opération n’est pas infaisable !"
+
+#: include/ui/admin.php:190
+msgid "Consider making a backup of your database before continue."
+msgstr ""
+"Envisagez de faire une sauvegarde de votre base de données avant de "
+"continuer."
+
+#: include/ui/admin.php:225
+msgid "WooVIP install has been cleaned up."
+msgstr "L'installation WooVIP a été nettoyée."
+
+#: include/ui/pages.php:118 include/updater.php:73
+msgid "V.I.P."
+msgstr "V.I.P."
+
+#: include/ui/pages.php:225
+msgid "VIP section"
+msgstr "Section VIP"
+
+#: include/ui/pages.php:299
+msgid "VIP"
+msgstr "VIP"
+
+#: include/ui/pages.php:312 include/ui/pages.php:380
+msgid "Show for VIP only"
+msgstr "Afficher pour VIP uniquement"
+
+#: include/ui/pages.php:346
+msgid "Bad VIP price format"
+msgstr "Mauvais format de prix VIP"
+
+#: include/ui/pages.php:355
+msgid "WooVIP Rules"
+msgstr "Règles WooVIP"
+
+#: include/ui/pages.php:382
+msgid "Hidden for all non VIP user."
+msgstr "Caché pour tous les utilisateurs non VIP."
+
+#: include/ui/pages.php:390
+msgid "VIP sale price"
+msgstr "Prix de vente VIP"
+
+#: include/ui/pages.php:392
+msgid ""
+"The product gets a discount for VIP users with a special price. If the "
+"product already has a discount, the smallest price is kept."
+msgstr ""
+"Le produit bénéficie d'un rabais pour les utilisateurs VIP avec un prix "
+"spécial. Si le produit a déjà un rabais, le plus petit prix est conservé."
+
+#: include/ui/pages.php:396
+msgid "With PRO version, you could set values on each variation"
+msgstr ""
+"Avec la version PRO, vous pouvez définir des valeurs sur chaque variation"
+
+#: include/ui/users.php:92
+msgid "Set as VIP"
+msgstr "Définir comme VIP"
+
+#: include/ui/users.php:93
+msgid "Remove from VIP"
+msgstr "Retirer des VIP"
+
+#: include/ui/users.php:140
+msgid "Is VIP"
+msgstr "Est VIP"
+
+#: include/ui/users.php:152
+msgid "Yes"
+msgstr "Oui"
+
+#: include/ui/users.php:152
+msgid "No"
+msgstr "Non"
+
+#: woovip.php:120
+msgid "Settings"
+msgstr "Réglages"
+
+#: woovip.php:123
+msgid "Help"
+msgstr "Aide"
+
+#: woovip.php:133
+msgid "Add Licence Key"
+msgstr "Ajouter un clé de licence"
+
+#: woovip.php:142
+msgid ""
+"https://plugins.longwatchstudio.com/en/product/woovip-vip-lounge-membership/"
+msgstr ""
+"https://plugins.longwatchstudio.com/en/product/woovip-vip-lounge-membership/"
+
+#: woovip.php:152
+msgid "https://plugins.longwatchstudio.com/docs/woovip/"
+msgstr "https://plugins.longwatchstudio.com/docs/woovip/"
+
+#~ msgid "Name your VIP lounge"
+#~ msgstr "Nommez votre salon VIP"
+
+#~ msgid "VIP Lounge"
+#~ msgstr "Salon VIP"
+
+#, php-format
+#~ msgid ""
+#~ "Edit <a href='%s'>posts</a>, <a href='%s'>pages</a> or <a "
+#~ "href='%s'>products</a> to set VIP lounge rules."
+#~ msgstr ""
+#~ "Modifiez <a href='%s'>les publications, les</a> <a href='%s'>pages</a> ou "
+#~ "les <a href='%s'>produits</a> pour définir les règles du salon VIP."
+
+#~ msgid "PRO Version Features"
+#~ msgstr "Fonctionnalités de la version PRO"
+
+#~ msgid ""
+#~ "Upgrade to the PRO version to manage several lounges with specific rules "
+#~ "for each one."
+#~ msgstr ""
+#~ "Mettez à niveau vers la version PRO pour gérer plusieurs salons avec des "
+#~ "règles spécifiques pour chacun d'eux."
+
+#~ msgid ""
+#~ "Manage pages, posts and products visibility by category in the PRO "
+#~ "Version. It's easier and faster."
+#~ msgstr ""
+#~ "Gérez les pages, les publications et la visibilité des produits par "
+#~ "catégorie dans la version PRO. C'est plus facile et plus rapide."
+
+#~ msgid ""
+#~ "You will also be able to manage price rules for products by category."
+#~ msgstr ""
+#~ "Vous serez également en mesure de gérer les règles de prix pour les "
+#~ "produits par catégorie."
+
+#~ msgid ""
+#~ "Sell VIP Membership with the PRO Version Membership feature. Your "
+#~ "customers can buy their VIP access for a limited period."
+#~ msgstr ""
+#~ "Vendez des adhésions VIP avec la fonction Adhésion VIP de la version PRO. "
+#~ "Vos clients peuvent acheter leur accès VIP pour une période limitée."
+
+#~ msgid ""
+#~ "In WooVIP PRO, tease your standard customers by showing products only "
+#~ "purchasable by VIP members."
+#~ msgstr ""
+#~ "Dans WooVIP PRO, taquinez vos clients standard en montrant des produits "
+#~ "uniquement achetables par les membres VIP."
+
+#~ msgid "lws_woovip_member"
+#~ msgstr "lws_woovip_member"
+
+#~ msgid "https://plugins.longwatchstudio.com/en/documentation-en/woovip/"
+#~ msgstr "https://plugins.longwatchstudio.com/fr/documentation/woovip/"
+
+#, fuzzy
+#~ msgid "Settins"
+#~ msgstr "Settins (Settins)"

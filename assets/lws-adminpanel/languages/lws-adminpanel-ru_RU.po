@@ -1,0 +1,1075 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Project-Id-Version: LWS Admin Panel\n"
+"POT-Creation-Date: 2021-01-11 11:36+0300\n"
+"PO-Revision-Date: 2021-01-11 15:19+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: lws-adminpanel.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Paley\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: argparser.php:162
+#, php-format
+msgctxt "Input array validation"
+msgid "%s value rejected"
+msgstr "%s значение отклонено"
+
+#: argparser.php:173
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is not an array"
+msgstr "%s не массив"
+
+#: argparser.php:177
+#, php-format
+msgid "A value in %s"
+msgstr "Значение в %s"
+
+#: argparser.php:196
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is not valid"
+msgstr "%s не действителен"
+
+#: argparser.php:201
+#, php-format
+msgctxt "Input array validation"
+msgid "%s must be equal or greater than zero"
+msgstr "%s должен быть равен или больше нуля"
+
+#: argparser.php:207
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is not a decimal number"
+msgstr "%s не десятичное число"
+
+#: argparser.php:209 argparser.php:219
+#, php-format
+msgctxt "Input array validation"
+msgid "%s must be greater than zero"
+msgstr "%s должен быть больше нуля"
+
+#: argparser.php:217
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is not a number"
+msgstr "%s не число"
+
+#: argparser.php:223
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is not a string"
+msgstr "%s не string"
+
+#: argparser.php:235
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is empty"
+msgstr "%s пусто"
+
+#: argparser.php:285
+#, php-format
+msgctxt "Input array validation"
+msgid "Missing required value for %s"
+msgstr "Отсутствует требуемое значение для %s"
+
+#: argparser.php:295
+#, php-format
+msgctxt "Input array validation"
+msgid "Missing entry %s"
+msgstr "Отсутствующие входные данные %s"
+
+#: argparser.php:301
+#, php-format
+msgctxt "Input array validation"
+msgid "Missing value for %s"
+msgstr "Отсутствует значение для %s"
+
+#: argparser.php:368
+#, php-format
+msgctxt "Input array validation"
+msgid "Unknown entry %s"
+msgstr "Неизвестные входные данные %s"
+
+#: credits/query.php:79 credits/query.php:132
+msgid "You actually use a <b>hacked</b> version."
+msgstr "Вы используете <b>взломанную</b> версию."
+
+#: credits/query.php:79
+#, php-format
+msgid "This activation actually uses the license key <b>%s</b>"
+msgstr "Эта активация фактически использует ключ лицензии <b>%s</b>"
+
+#: credits/query.php:82 credits/query.php:137
+#, php-format
+msgid "%s - Activated"
+msgstr "%s - Активирован"
+
+#: credits/query.php:84 credits/query.php:139
+#, php-format
+msgid "Visit <a href='%s'>%s</a> to discover other offers."
+msgstr ""
+"Посетите <a href='%s'>%s</a>, чтобы ознакомиться с другими предложениями."
+
+#: credits/query.php:101
+#, php-format
+msgid "Your license expires the %s."
+msgstr "Срок действия лицензии истекает %s."
+
+#: credits/query.php:113
+msgid "Set another license key"
+msgstr "Установите другой лицензионный ключ"
+
+#: credits/query.php:113 credits/query.php:148
+#, php-format
+msgid "%s - Activate your license"
+msgstr "%s - Активируйте лицензию"
+
+#: credits/query.php:150
+#, php-format
+msgid ""
+"<p>The plugin <strong>%s</strong> from <a href='%s'>%s</a> needs activation</"
+"p><p>Contact your administrator.</p>"
+msgstr ""
+"<p>Плагин <strong>%s</strong> от <a href='%s'>%s</a> требует активации</"
+"p><p>Свяжитесь с Вашим администратором.</p>"
+
+#: credits/query.php:162
+msgid "Pro Version"
+msgstr "Pro-версия"
+
+#: credits/query.php:187 credits/query.php:341
+msgctxt "plugin activation form button"
+msgid "Activate"
+msgstr "Активировать"
+
+#: credits/query.php:188 credits/query.php:342
+msgctxt "plugin activation form"
+msgid "License key"
+msgstr "Лицензионный ключ"
+
+#: credits/query.php:189
+msgctxt "plugin activation form"
+msgid "Login"
+msgstr "Логин"
+
+#: credits/query.php:190
+msgctxt "plugin activation form"
+msgid "Password"
+msgstr "Пароль"
+
+#: credits/query.php:191
+msgid "Install pro version after license validation"
+msgstr "Установите pro-версию после проверки лицензии"
+
+#: credits/query.php:212
+#, php-format
+msgctxt "%4$s is license key form."
+msgid ""
+"<p>Activate this plugin to enjoy all the pro features of <strong>%1$s</"
+"strong><br/>\n"
+"If you do not have any license, please visit <a href='%3$s'>%2$s</a></p>\n"
+"<p>%4$s</p>"
+msgstr ""
+"<p>Активируйте этот плагин, чтобы использовать все pro-функции <strong>%1$s</"
+"strong><br/>\n"
+"Если у Вас еще нет лицензии, пожалуйста, посетите <a href='%3$s'>%2$s</a></"
+"p>\n"
+"<p>%4$s</p>"
+
+#: credits/query.php:217
+#, php-format
+msgid "<p>An error occured during <strong>%s</strong> activation.</p>"
+msgstr "<p>Произошла ошибка во время активации<strong>%s</strong>.</p>"
+
+#: credits/query.php:220
+#, php-format
+msgid "or using your connection settings to <a href='%2$s'>%1$s</a>"
+msgstr "или с помощью настроек соединения для <a href='%2$s'>%1$s</a>"
+
+#: credits/query.php:229
+#, php-format
+msgid ""
+"You are using the free version of %1$s. You can use it <a href=\"%2$s"
+"\">here</a> or upgrade to the Trial/Pro version down below."
+msgstr ""
+"Вы используете бесплатную версию %1$s. Вы можете просмотреть его <a href="
+"\"%2$s\">здесь</a> или обновитесь до Пробной/Pro версии ниже."
+
+#: credits/query.php:256
+msgid "Install PRO version now"
+msgstr "Установить PRO-версию сейчас"
+
+#: credits/query.php:266
+msgctxt "plugin activation link"
+msgid "Activate"
+msgstr "Активировать"
+
+#: credits/query.php:270
+#, php-format
+msgid "<p>The plugin <strong>%s</strong> needs activation %s</p>"
+msgstr "<p>Плагин <strong>%s</strong> нуждается в активации %s</p>"
+
+#: credits/query.php:277
+#, php-format
+msgid ""
+"<p>The plugin <strong>%s</strong> from <a href='%s'>%s</a> needs activation</"
+"p>\n"
+"\t\t\t\t<p>Contact your administrator.</p>"
+msgstr ""
+"<p>Плагин <strong>%s</strong> от <a href='%s'>%s</a> требует активации</p>\n"
+"\t\t\t\t<p>Свяжитесь с Вашим администратором.</p>"
+
+#: credits/query.php:290
+msgid "<p>Data seems corrupted.</p>"
+msgstr "<p>Данные кажутся поврежденными.</p>"
+
+#: credits/query.php:330
+msgid ""
+"<p>Your web host cannot contact the licence server. Update and activation "
+"could be affected.</p>"
+msgstr ""
+"<p>Ваш веб-хостинг не может связаться с сервером лицензии. Могут быть "
+"затронуты обновления и активация.</p>"
+
+#: credits/query.php:332 credits/update.php:221
+#, php-format
+msgid ""
+"<p>It is a known issue on some web host providers working with clusters. "
+"Please contact your host provider and ask for <i>%s</i></p>"
+msgstr ""
+"<p>Это известная проблема на некоторых веб-хостингах, работающих с "
+"кластерами. Пожалуйста, свяжитесь с вашим хостом и попросите <i>%s</i></p>"
+
+#: credits/query.php:335
+msgid ""
+"<p>Please fill in the form again to try activation in <b>degraded mode</b></"
+"p>"
+msgstr ""
+"<p>Пожалуйста, заполните форму еще раз, чтобы попробовать активацию в "
+"<b>пониженном режиме</b></p>"
+
+#: credits/query.php:375 credits/query.php:400
+msgid "<p>Internal error, please retry later.</p>"
+msgstr "<p>Внутренняя ошибка, пожалуйста, повторите позже.</p>"
+
+#: credits/query.php:391
+msgid "<p>Corrupted data.</p>"
+msgstr "<p>Поврежденные данные.</p>"
+
+#: credits/query.php:415
+msgid ""
+"<p class='lws-adminpanel-activation-error'>The license server cannot "
+"validate your request. Please check your values and try again.</p>"
+msgstr ""
+"<p class='lws-adminpanel-activation-error'>Сервер лицензии не может "
+"подтвердить ваш запрос. Пожалуйста, проверьте свои значения и попробуйте еще "
+"раз.</p>"
+
+#: credits/query.php:443
+msgid "<p>Operation abort, detect a man-in-the-middle attack.</p>"
+msgstr "<p>Операция прервана, обнаружена атака man-in-the-middle.</p>"
+
+#: credits/query.php:450
+msgid "<p>Corrupted data from license server.</p>"
+msgstr "<p>Поврежденные данные с сервера лицензии.</p>"
+
+#: credits/query.php:457
+#, php-format
+msgid "<p><strong>%s</strong> is now activated.</p>"
+msgstr "<p><strong>%s</strong> теперь активирован.</p>"
+
+#: credits/query.php:460
+msgid "Now, you can check available plugin updates."
+msgstr "Теперь Вы можете проверить доступные обновления плагина."
+
+#: credits/query.php:482
+msgid "<p>License denied.</p>"
+msgstr "<p>Лицензия отклонена.</p>"
+
+#. Author of the plugin/theme
+#: credits/query.php:518 credits/update.php:431
+msgid "Long Watch Studio"
+msgstr "Long Watch Studio"
+
+#. Plugin URI of the plugin/theme
+#: credits/query.php:520 credits/query.php:522 credits/update.php:433
+#: credits/update.php:435
+msgid "https://plugins.longwatchstudio.com"
+msgstr "https://plugins.longwatchstudio.com"
+
+#: credits/showcase.php:61
+msgid "More..."
+msgstr "Еще..."
+
+#: credits/update.php:217
+#, php-format
+msgid ""
+"<p><b>%s</b> cannot contact licence server. Plugin update encounters "
+"difficulties.</p>"
+msgstr ""
+"<p><b>%s</b> не может связаться с сервером лицензии. Обновление плагина "
+"сталкивается с трудностями.</p>"
+
+#: credits/update.php:309
+msgid "Invalid URL Provided."
+msgstr "Предоставлен недопустимый URL-адрес."
+
+#: credits/update.php:315
+msgid "Could not create Temporary file."
+msgstr "Не удалось создать временный файл."
+
+#: credits/update.php:361
+#, php-format
+msgid "No maintenance available for <b>%s</b>."
+msgstr "Нет доступного обслуживания для <b>%s</b> ."
+
+#: credits/update.php:366
+msgid "Update request rejected."
+msgstr "Запрос на обновление отклонен."
+
+#: credits/update.php:368
+msgid "Download falls back to an older version."
+msgstr "Скачивание возвращается к старой версии."
+
+#: credits/update.php:374
+#, php-format
+msgid "<p>Your maintenance expired on %s.</p>"
+msgstr "<p>Срок вашего обслуживания истекает %s.</p>"
+
+#: credits/update.php:378
+msgid "our site"
+msgstr "наш сайт"
+
+#: credits/update.php:380
+#, php-format
+msgid ""
+"<p>Please visit %s to renew your maintenance and receive the plugin updates."
+"</p>"
+msgstr ""
+"<p>Пожалуйста, посетите %s, чтобы возобновить техническое обслуживание и "
+"получить обновления плагина.</p>"
+
+#: duration.php:76
+msgid "Year"
+msgid_plural "Years"
+msgstr[0] "Год"
+msgstr[1] "Года"
+msgstr[2] "Лет"
+
+#: duration.php:79
+msgid "Month"
+msgid_plural "Months"
+msgstr[0] "Месяц"
+msgstr[1] "Месяца"
+msgstr[2] "Месяцев"
+
+#: duration.php:82
+msgid "Hour"
+msgid_plural "Hours"
+msgstr[0] "Час"
+msgstr[1] "Часа"
+msgstr[2] "Часов"
+
+#: duration.php:85
+msgid "Minute"
+msgid_plural "Minutes"
+msgstr[0] "Минута"
+msgstr[1] "Минуты"
+msgstr[2] "Минут"
+
+#: duration.php:88
+msgid "Second"
+msgid_plural "Seconds"
+msgstr[0] "Секунда"
+msgstr[1] "Секунд"
+msgstr[2] "Секунд"
+
+#: duration.php:91
+msgid "Day"
+msgid_plural "Days"
+msgstr[0] "День"
+msgstr[1] "Дня"
+msgstr[2] "Дней"
+
+#: duration.php:260
+msgid "Days"
+msgstr "Дни"
+
+#: duration.php:261
+msgid "Months"
+msgstr "Месяцев"
+
+#: duration.php:262
+msgid "Years"
+msgstr "Лет"
+
+#: editlist.php:154
+msgctxt "editlist groupby"
+msgid "Add a group"
+msgstr "Добавить группу"
+
+#: editlist.php:278
+msgid "Apply"
+msgstr "Применить"
+
+#: editlist.php:313 pages/field/class-taglist.php:21
+msgid "Add"
+msgstr "Добавить"
+
+#: editlist.php:419
+msgid "Cancel"
+msgstr "Отменить"
+
+#: editlist.php:420
+msgid "Save"
+msgstr "Сохранить"
+
+#: editlist.php:436
+msgid "Delete"
+msgstr "Удалить"
+
+#: editlist.php:437
+msgid "Copy"
+msgstr "Копировать"
+
+#: editlist.php:438
+msgid "Quick Edit"
+msgstr "Быстрое редактирование"
+
+#: editlist/class-filter.php:91
+msgid "Search"
+msgstr "Поиск"
+
+#: editlist/class-filter.php:100
+msgid "Narrow your search"
+msgstr "Уточниь поиск"
+
+#: editlist/class-filter.php:136
+msgid "Filter the results"
+msgstr "Фильтровать результаты"
+
+#: editlist/class-pager.php:84
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d элемент"
+msgstr[1] "%d элемента"
+msgstr[2] "%d элементов"
+
+#: editlist/class-pager.php:91
+msgid "Items per page"
+msgstr "Элементов на странице"
+
+#: editlist/class-pager.php:111
+#, php-format
+msgctxt "Total page number"
+msgid "/ %d"
+msgid_plural "/ %d"
+msgstr[0] "/ %d"
+msgstr[1] "/ %d"
+msgstr[2] "/ %d"
+
+#: lws-adminpanel.php:335
+msgid "At least one value is unknown."
+msgstr "По крайней мере одно значение неизвестно."
+
+#: lws-adminpanel.php:433
+msgid "Used to get google fonts."
+msgstr "Используется для получения шрифтов Google."
+
+#: lws-adminpanel.php:436
+msgid "Generate API Key"
+msgstr "Генерировать ключ API"
+
+#: lws-adminpanel.php:437
+#, php-format
+msgid "or <a target='_blank' href='%s'>click here to Get a Google API KEY</a>"
+msgstr ""
+"или <a target='_blank' href='%s'>нажмите здесь, чтобы Получить Google API "
+"KEY</a>"
+
+#: lws-adminpanel.php:440
+msgid "You MUST be logged in to your Google account to generate a key."
+msgstr "Вы ДОЛЖНЫ войти в свой аккаунт Google для создания ключа."
+
+#: lws-adminpanel.php:444
+msgid "Google account"
+msgstr "Аккаунт Google"
+
+#: lws-adminpanel.php:536
+#, php-format
+msgid ""
+"The trial period of plugin <b>%s</b> expired the <i>%s</i>. We hope you "
+"enjoyed it and expect you soon on <a href='%s' target='_blank'>%s</a>."
+msgstr ""
+"Пробный период плагина <b>%s</b> истёк <i>%s</i>. Мы надеемся, что он Вам "
+"понравился и ждём Вас скоро в <a href='%s' target='_blank'>%s</a>."
+
+#: lws-adminpanel.php:546
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: mailer.php:273
+msgid "This is a test."
+msgstr "Это тест."
+
+#: mailer.php:344
+msgid "Email Settings"
+msgstr "Настройки Email"
+
+#: mailer.php:344
+#, php-format
+msgid "%s Email Settings"
+msgstr "%s Настройки Email"
+
+#: mailer.php:351
+msgid ""
+"\n"
+"\t\t\t\t\t\t\tOnce you've finished the email settings, <b>save your changes</"
+"b><br/>\n"
+"\t\t\t\t\t\t\tYou will then see the result in the style editor below<br/>\n"
+"\t\t\t\t\t\t\tSelect the elements you wish to change and have fun!\n"
+"\t\t\t\t\t\t"
+msgstr ""
+"\n"
+"\t\t\t\t\t\t\tКак только Вы закончите настройку email, <b>сохраните Ваши "
+"настройки</b><br/>\n"
+"\t\t\t\t\t\t\tВы увидите результат в редакторе стилей ниже<br/>\n"
+"\t\t\t\t\t\t\tВыберите элементы, которые хотите изменить и веселитесь!\n"
+"\t\t\t\t\t\t"
+
+#: mailer.php:358
+msgid "Header picture"
+msgstr "Изображение хэдера"
+
+#: mailer.php:359
+msgid "Footer text"
+msgstr "Текст футера"
+
+#: mailer.php:373
+msgid "Email details"
+msgstr "Детали email"
+
+#: mailer.php:378
+msgid "Subject"
+msgstr "Тема"
+
+#: mailer.php:384
+msgid "Preheader"
+msgstr "Прехедер"
+
+#: mailer.php:416
+msgid "Receiver Email"
+msgstr "Получатель email'а"
+
+#: mailer.php:419
+msgid "Test your email to see how it looks"
+msgstr "Проверьте своё email-письмо, чтобы увидеть, как оно выглядит"
+
+#: mailer.php:426
+msgid "Send test email"
+msgstr "Отправить тестовое email-письмо"
+
+#: mailer.php:444
+msgid "Test email sent."
+msgstr "Тестовое письмо отправлено."
+
+#: mailer.php:447
+msgid "Test email is not valid."
+msgstr "Тестовое письмо не действительно."
+
+#: pages.php:456
+msgid "Changes not commited."
+msgstr "Изменения не внесены."
+
+#: pages.php:457
+msgid "Please confirm or cancel the active form before submit that page."
+msgstr ""
+"Пожалуйста, подтвердите или отмените активную форму перед отправкой этой "
+"страницы."
+
+#: pages.php:458
+msgid "Do you really want to delete the line?"
+msgstr "Вы действительно хотите удалить строку?"
+
+#: pages.php:459
+msgid "Update error, please check the values."
+msgstr "Ошибка обновления, пожалуйста, проверьте значения."
+
+#: pages.php:460
+msgid "An error occured, please try later."
+msgstr "Произошла ошибка. Пожалуйста, попробуйте позже."
+
+#: pages.php:461
+msgid "Please, select an item."
+msgstr "Пожалуйста, выберите элемент."
+
+#: pages.php:462
+msgid "Select a font"
+msgstr "Выбрать шрифт"
+
+#: pages.php:463
+msgid "Show more"
+msgstr "Показать больше"
+
+#: pages.php:464
+msgid "Show less"
+msgstr "Показать меньше"
+
+#: pages.php:466
+msgctxt "Font weight"
+msgid "Thin"
+msgstr "Тонкий"
+
+#: pages.php:467
+msgctxt "Font weight"
+msgid "Extra Light"
+msgstr "Очень светлый"
+
+#: pages.php:468
+msgctxt "Font weight"
+msgid "Light"
+msgstr "Светлый"
+
+#: pages.php:469 pages.php:470
+msgctxt "Font weight"
+msgid "Normal"
+msgstr "Нормальный"
+
+#: pages.php:471
+msgctxt "Font weight"
+msgid "Medium"
+msgstr "Средний"
+
+#: pages.php:472
+msgctxt "Font weight"
+msgid "Semi Bold"
+msgstr "Полужирный"
+
+#: pages.php:473
+msgctxt "Font weight"
+msgid "Bold"
+msgstr "Жирный"
+
+#: pages.php:474
+msgctxt "Font weight"
+msgid "Extra Bold"
+msgstr "Экстра-жирный"
+
+#: pages.php:475
+msgctxt "Font weight"
+msgid "Black"
+msgstr "Черный"
+
+#: pages.php:487
+msgid " didn't match any items"
+msgstr " не совпадают с какими-либо элементами"
+
+#: pages.php:488
+msgid "Show All Items"
+msgstr "Показать все элементы"
+
+#: pages/class-page.php:178 pages/class-page.php:794
+msgid "Your settings have been saved."
+msgstr "Ваши настройки сохранены."
+
+#: pages/class-page.php:396
+msgid "Advanced Settings"
+msgstr "Расширенные Настройки"
+
+#: pages/class-page.php:562
+msgid "Documentation"
+msgstr "Документация"
+
+#: pages/class-page.php:563
+msgid "Other Plugins"
+msgstr "Другие плагины"
+
+#: pages/class-page.php:564
+msgid "Support"
+msgstr "Поддержка"
+
+#: pages/class-page.php:565
+msgid "Try the Pro Version for free"
+msgstr "Попробуйте Pro-Версия бесплатно"
+
+#: pages/class-page.php:566
+msgid "Join Us on Discord"
+msgstr "Присоединяйтесь к нам в Discord"
+
+#: pages/class-page.php:567
+msgid "Activate your license"
+msgstr "Активируйте вашу лицензию"
+
+#: pages/class-page.php:568
+msgid "Watch our Youtube tutorials"
+msgstr "Просмотрите наши обучающие Youtube-ролики"
+
+#: pages/class-page.php:574 pages/class-page.php:578 pages/class-page.php:633
+#: pages/class-page.php:637
+msgid "https://plugins.longwatchstudio.com/"
+msgstr "https://plugins.longwatchstudio.com/"
+
+#: pages/class-page.php:577 pages/class-page.php:636
+msgid "https://plugins.longwatchstudio.com/documentation/"
+msgstr "https://plugins.longwatchstudio.com/documentation/"
+
+#: pages/class-page.php:609
+#, php-format
+msgid "%1$s Admin Panel %2$s"
+msgstr "%1$s Админка %2$s"
+
+#: pages/class-page.php:694
+msgctxt "Singular object edition screen"
+msgid "Delete element"
+msgstr "Удалить элемент"
+
+#: pages/class-page.php:695
+msgctxt "Singular object edition screen"
+msgid "I really want to delete it"
+msgstr "Я действительно хочу удалить это"
+
+#: pages/class-page.php:696
+msgctxt "Singular object edition screen"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: pages/class-page.php:697
+msgctxt "Singular object edition screen"
+msgid "This element will be permanently removed. Are you sure?"
+msgstr "Этот элемент будет удален навсегда. Вы уверены?"
+
+#: pages/class-page.php:698
+msgctxt "Singular object edition screen"
+msgid "Permanent deletion"
+msgstr "Перманентное удаление"
+
+#: pages/class-page.php:715
+msgctxt "Singular object creation screen"
+msgid "Create"
+msgstr "Создать"
+
+#: pages/class-page.php:715
+msgctxt "Singular object edition screen"
+msgid "Update"
+msgstr "Обновить"
+
+#: pages/class-page.php:723
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: pages/class-page.php:766
+msgid "Action rejected for current user. Insufficient capacities."
+msgstr ""
+"Действия отклонены для текущего пользователя. Недостаточные возможности."
+
+#: pages/class-page.php:819
+msgctxt "post deletion"
+msgid "Unavailable action."
+msgstr "Недоступное действие."
+
+#: pages/class-page.php:825
+msgctxt "post deletion"
+msgid "Security check failed."
+msgstr "Ошибка проверки безопасности."
+
+#: pages/class-page.php:831
+msgid "Element permanently removed."
+msgstr "Элемент удалён навсегда."
+
+#: pages/field/class-border.php:25
+msgctxt "CSS margin tooltip"
+msgid ""
+"1 to 4 values accepted<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Sets a global margin of 5 pixels</p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Sets top, right, bottom, "
+"left margins</p>"
+msgstr ""
+"Принимается от 1 до 4 значений<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Устанавливает общий внешний отступ в 5 "
+"пикселей</p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Устанавливает верхний, "
+"правый, нижний, левый внешние отступы</p>"
+
+#: pages/field/class-border.php:33
+msgctxt "CSS padding tooltip"
+msgid ""
+"1 to 4 values accepted<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Sets a global padding of 5 pixels</p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Sets top, right, bottom, "
+"left padding</p>"
+msgstr ""
+"Принимается от 1 до 4 значений<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Устанавливает общий внутренний отступ "
+"в 5 пикселей</p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Устанавливает верхний, "
+"правый, нижний, левый внутренние отступы</p>"
+
+#: pages/field/class-border.php:41
+msgctxt "CSS border tooltip"
+msgid ""
+"1 to 4 values accepted<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Sets a global border size of 5 pixels</"
+"p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Sets top, right, bottom, "
+"left borders</p>"
+msgstr ""
+"Принимается от 1 до 4 значений<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Устанавливает общий размер границы в 5 "
+"пикселей</p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Устанавливает верхнюю, "
+"правую, нижнюю, левую границы</p>"
+
+#: pages/field/class-border.php:49
+msgctxt "CSS radius tooltip"
+msgid ""
+"1 to 4 values accepted<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Sets a global border radius of 5 "
+"pixels</p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Sets top, right, bottom, "
+"left border radius</p>"
+msgstr ""
+"Принимается от 1 до 4 значений<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Устанавливает общий радиус границы в 5 "
+"пикселей</p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Устанавливает верхний, "
+"правый, нижний, левый радиусы границы</p>"
+
+#: pages/field/class-border.php:73
+msgctxt "CSS border size edition"
+msgid "Margin"
+msgstr "Внеш. отступ"
+
+#: pages/field/class-border.php:75
+msgctxt "CSS border size editoin"
+msgid "Padding"
+msgstr "Внут. отступ"
+
+#: pages/field/class-border.php:77
+msgctxt "CSS border size editoin"
+msgid "Border"
+msgstr "Граница"
+
+#: pages/field/class-border.php:79
+msgctxt "CSS border size editoin"
+msgid "Radius"
+msgstr "Радиус"
+
+#: pages/field/class-border.php:81
+msgctxt "CSS color edition"
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: pages/field/class-border.php:83
+msgctxt "CSS color edition"
+msgid "Background"
+msgstr "Фон"
+
+#: pages/field/class-border.php:155
+msgctxt "LWSS border text demo"
+msgid "This is a sample text"
+msgstr "Это образец текста"
+
+#: pages/field/class-cssbutton.php:67
+msgctxt "LWSS button colors"
+msgid "Normal"
+msgstr "Нормальный"
+
+#: pages/field/class-cssbutton.php:68
+msgctxt "LWSS button colors"
+msgid "Over"
+msgstr "Над"
+
+#: pages/field/class-cssbutton.php:69
+msgctxt "LWSS button colors"
+msgid "Focused"
+msgstr "Сфокусированный"
+
+#: pages/field/class-cssbutton.php:70
+msgctxt "LWSS button colors"
+msgid "Text"
+msgstr "Текст"
+
+#: pages/field/class-cssbutton.php:71
+msgctxt "LWSS button colors"
+msgid "Background"
+msgstr "Фон"
+
+#: pages/field/class-cssbutton.php:88
+msgctxt "CSS color edition"
+msgid "Normal Text"
+msgstr "Нормальный текст"
+
+#: pages/field/class-cssbutton.php:89
+msgctxt "CSS color edition"
+msgid "On Hover Text"
+msgstr "Текст при наведении"
+
+#: pages/field/class-cssbutton.php:90
+msgctxt "CSS color edition"
+msgid "On Click Text"
+msgstr "Текст при нажатии"
+
+#: pages/field/class-cssbutton.php:95
+msgctxt "CSS color edition"
+msgid "Normal Background"
+msgstr "Нормальный фон"
+
+#: pages/field/class-cssbutton.php:96
+msgctxt "CSS color edition"
+msgid "On Hover Background"
+msgstr "Фон при наведении"
+
+#: pages/field/class-cssbutton.php:97
+msgctxt "CSS color edition"
+msgid "On Click Background"
+msgstr "Фон при нажатии"
+
+#: pages/field/class-duration.php:66
+msgid "An integer value greater than zero."
+msgstr "Целое число больше нуля."
+
+#: pages/field/class-font.php:83
+msgctxt "LWSS font text demo"
+msgid "This is a sample text"
+msgstr "Это образец текста"
+
+#: pages/field/class-googleapikey.php:24
+msgid "Your Google API key"
+msgstr "Ваш ключ Google API"
+
+#: pages/field/class-googleapikey.php:26
+msgid "You should define a Google API key in this settings."
+msgstr "Вы должны определить ключ API Google в этих настройках."
+
+#: pages/field/class-lacchecklist.php:39
+msgid "Select..."
+msgstr "Выбрать..."
+
+#: pages/field/class-media.php:30
+msgid "Remove"
+msgstr "Удалить"
+
+#: pages/field/class-media.php:31 pages/field/class-media.php:33
+msgid "Select a media"
+msgstr "Выбрать медиа"
+
+#: pages/field/class-media.php:32
+msgid "Use the selected item"
+msgstr "Использовать выбранный элемент"
+
+#: pages/field/class-media.php:34
+msgid "Edit..."
+msgstr "Pедактировать..."
+
+#: pages/field/class-stygen.php:46
+msgid "Available Elements"
+msgstr "Доступные элементы"
+
+#: pages/field/class-stygen.php:47
+msgid "Select an element to start modifying its style"
+msgstr "Выберите элемент, чтобы начать изменять его стиль"
+
+#: pages/field/class-stygen.php:48
+msgctxt "Stygen button"
+msgid "Reset Style"
+msgstr "Сбросить Стиль"
+
+#: pages/field/class-stygen.php:130
+msgid "Snippet unknown"
+msgstr "Фрагмент неизвестен"
+
+#: pseudocss.php:246
+msgid "Default CSS values"
+msgstr "Значения CSS по умолчанию"
+
+#: pseudocss.php:251
+msgctxt "Default css values"
+msgid "Reset"
+msgstr "Сброс"
+
+#: wizard.php:183
+#, php-format
+msgid ""
+"If you can see this, an error occured. Click %s here %s to resolve. Then "
+"restart the wizard."
+msgstr ""
+"Если вы видите это, то произошла ошибка. Нажмите %s здесь %s, чтобы "
+"разрешить. Затем, перезапустите мастер настройки."
+
+#: wizard.php:196
+msgid "Leave the wizard"
+msgstr "Покинуть мастер настройки"
+
+#: wizard.php:196 wizard.php:994
+msgid "You can come back later and continue from that point."
+msgstr "Вы можете вернуться позже и продолжить с этого момента."
+
+#: wizard.php:350
+msgid "An error occured during form validation."
+msgstr "Произошла ошибка во время валидации формы."
+
+#: wizard.php:743
+#, php-format
+msgctxt "wizard critical path tab title with loop count"
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: wizard.php:953
+msgctxt "previous wizard step"
+msgid "Previous"
+msgstr "Назад"
+
+#: wizard.php:966
+msgctxt "repeat a wizard portion"
+msgid "Add"
+msgstr "Добавить"
+
+#: wizard.php:975
+msgctxt "next wizard step"
+msgid "Next"
+msgstr "Далее"
+
+#: wizard.php:979
+msgctxt "final wizard submit"
+msgid "Submit"
+msgstr "Отправить"
+
+#: wizard.php:994
+msgid "Leave this wizard"
+msgstr "Покинуть этот мастер настройки"
+
+#: wizard.php:995
+msgid "You will lose all prepared settings."
+msgstr "Вы потеряете все подготовленные настройки."
+
+#: wizard.php:996
+msgid "Cancel this wizard"
+msgstr "Отменить этот мастер настройки"
+
+#. Plugin Name of the plugin/theme
+msgid "LWS Admin Panel"
+msgstr "Панель Админа LWS"
+
+#. Description of the plugin/theme
+msgid "Provide an easy way to manage other plugin's settings."
+msgstr "Предоставляет простой способ управления настройками других плагинов."
+
+#. Author URI of the plugin/theme
+msgid "https://longwatchstudio.com"
+msgstr "https://longwatchstudio.com"

@@ -1,0 +1,8 @@
+#adminmenu #toplevel_page_woovip.menu-icon-generic div.wp-menu-image::before{
+	font-family: 'lws-icons';
+	content: '\eb0b';
+}
+#woocommerce-product-data ul.wc-tabs li[class*=woovip] a::before{
+	font-family: 'lws-icons';
+	content: '\eb0b';
+}
